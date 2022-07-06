@@ -1,0 +1,17 @@
+$color: steelblue;
+
+.my-flix{
+    color: $color;
+}
+.app-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.form-login{
+
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    
+}
